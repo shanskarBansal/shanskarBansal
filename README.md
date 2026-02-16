@@ -46,6 +46,7 @@ Most of my source code lives in private repos (client work), but I keep public s
 | | Project | What it does |
 |---|---------|-------------|
 | 🚀 | [**DataNautX**](https://github.com/shanskarBansal/DataNautX-Showcase) | Enterprise social media intelligence — extracts and reports across FB, IG, YT & X |
+| 🔗 | [**LinkLens**](https://github.com/shanskarBansal/LinkLens-Showcase) | Multi-platform social media metrics extraction — paste URLs, get every metric |
 | 📊 | [**SocialPulse Analytics**](https://github.com/shanskarBansal/social-pulse-analytics-showcase) | Automated analytics pipeline for social platforms using Streamlit + Google APIs |
 | 🐦 | [**Twitter/X Scraper**](https://github.com/shanskarBansal/twitter-scraper-showcase) | Production-grade tweet & profile extractor built on Apify + Playwright |
 | 💰 | [**SalaryLens**](https://github.com/shanskarBansal/SalaryLens-Showcase) | ML-powered salary prediction platform (Worthify.me) |
