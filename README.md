@@ -7,8 +7,8 @@ I've always been drawn to the problem-solving side of data. Understanding *why* 
 I also build full-stack web applications — React frontends, Node/Express backends, MongoDB, the whole stack. It started because I needed better interfaces for the data tools I was building, and it stuck because I genuinely enjoy shipping things end to end. Outside of work, I'm usually reading about new developments in AI, contributing to side projects, or exploring how LLMs can be applied to domains beyond the obvious ones.
 
 [![Portfolio](https://img.shields.io/badge/shanskarbansal.com-000?style=flat&logo=safari&logoColor=white)](https://shanskarbansal.com) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanskarbansal) &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shanskar.bansal@varaheanalytics.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanskar-bansal-b8515a243/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shanskarbansal@gmail.com)
 
 ---
 
