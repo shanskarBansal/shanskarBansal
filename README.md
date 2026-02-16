@@ -18,6 +18,8 @@ I also build full-stack web applications — React frontends, Node/Express backe
 
 - Building enterprise analytics dashboards that process data from Instagram, Facebook, YouTube & X
 - Designing scraping systems with Playwright & Apify that don't fall apart at scale
+- Shipping AI-powered sentiment analysis pipelines using Gemini for comment-level insights
+- Building Facebook Ad Library intelligence tools for ad spend & impression reporting
 - Exploring RAG pipelines and LLM-powered workflows for smarter data analysis
 - Maintaining a salary prediction tool ([Worthify.me](https://github.com/shanskarBansal/SalaryLens-Showcase)) that uses ML to estimate developer compensation
 
@@ -46,6 +48,9 @@ Most of my source code lives in private repos (client work), but I keep public s
 | | Project | What it does |
 |---|---------|-------------|
 | 🚀 | [**DataNautX**](https://github.com/shanskarBansal/DataNautX-Showcase) | Enterprise social media intelligence — extracts and reports across FB, IG, YT & X |
+| ⚡ | [**OmniMetric**](https://github.com/shanskarBansal/OmniMetric-Showcase) | Multi-platform social media intelligence pipeline — parallel fetching with auto-failover |
+| 💬 | [**CommentLens**](https://github.com/shanskarBansal/CommentLens-Showcase) | Comment extraction + Gemini AI-powered sentiment analysis across FB, IG, YT & X |
+| 🏦 | [**AdVault**](https://github.com/shanskarBansal/AdVault-Showcase) | Facebook Ad Library intelligence — extract, analyze & report ad spend and impressions at scale |
 | 🔗 | [**LinkLens**](https://github.com/shanskarBansal/LinkLens-Showcase) | Multi-platform social media metrics extraction — paste URLs, get every metric |
 | 📊 | [**SocialPulse Analytics**](https://github.com/shanskarBansal/social-pulse-analytics-showcase) | Automated analytics pipeline for social platforms using Streamlit + Google APIs |
 | 🐦 | [**Twitter/X Scraper**](https://github.com/shanskarBansal/twitter-scraper-showcase) | Production-grade tweet & profile extractor built on Apify + Playwright |
@@ -58,10 +63,12 @@ Most of my source code lives in private repos (client work), but I keep public s
 <summary><b>📈 A bit about my background</b></summary>
 <br/>
 
-I work at the intersection of data science and engineering. At Varahe, I've built systems that:
+I work at the intersection of data science and engineering. At Varahe, I've built 9+ production systems that:
 
 - Scrape and process millions of social media data points across 4+ platforms
 - Power real-time dashboards used by marketing and strategy teams
+- Run AI-powered sentiment analysis on social media comments at scale using Gemini
+- Extract and analyze Facebook ad library data for competitive intelligence
 - Predict salary ranges using trained ML models
 - Automate reporting pipelines that used to take days — down to minutes
 
