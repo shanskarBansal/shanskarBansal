@@ -1,10 +1,10 @@
 ### Hey, I'm Shanskar 👋
 
-I'm a **Senior Consultant & Data Scientist** at [Varahe Analytics](https://varaheanalytics.com), where I spend most of my time building tools that pull insights out of messy, real-world data — social media posts, salary surveys, engagement metrics, you name it.
+I'm a **Senior Consultant & Data Scientist** at [Varahe Analytics](https://varaheanalytics.com). My day-to-day involves building data platforms, analytics dashboards, and scraping systems that turn messy real-world data into something teams can actually make decisions with — social media metrics, salary benchmarks, engagement trends, campaign performance, all of it.
 
-I got into data because I genuinely enjoy the detective work. Figuring out *why* a campaign underperformed or *what* drives engagement on a platform — that's the kind of problem I like waking up to.
+I've always been drawn to the problem-solving side of data. Understanding *why* something happened in a dataset, finding patterns nobody expected, connecting signals across platforms — that's the work I find most rewarding. Over the past few years I've gone deeper into **LLMs and generative AI** — building RAG pipelines, integrating OpenAI and Claude APIs into internal tools, experimenting with prompt engineering and fine-tuning to automate parts of the analysis workflow that used to be entirely manual.
 
-When I'm not wrangling datasets, I'm usually tinkering with scraping pipelines, experimenting with LLMs, or building small full-stack apps just because it's fun.
+I also build full-stack web applications — React frontends, Node/Express backends, MongoDB, the whole stack. It started because I needed better interfaces for the data tools I was building, and it stuck because I genuinely enjoy shipping things end to end. Outside of work, I'm usually reading about new developments in AI, contributing to side projects, or exploring how LLMs can be applied to domains beyond the obvious ones.
 
 [![Portfolio](https://img.shields.io/badge/shanskarbansal.com-000?style=flat&logo=safari&logoColor=white)](https://shanskarbansal.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanskarbansal) &nbsp;
