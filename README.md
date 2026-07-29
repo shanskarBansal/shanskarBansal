@@ -39,6 +39,33 @@ I also build full-stack web applications — React frontends, Node/Express backe
 
 **Databases & Infra** &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+<details open>
+<summary><b>📸 Instagram Scraper (Apify) — find & run</b></summary>
+<br/>
+
+Looking for an **Instagram scraper**? Paste a post/reel URL and get views, likes, comments & caption as JSON.
+
+**▶ Live actor (try free):** [console.apify.com/actors/GLcl7jwhshuWdvkiD](https://console.apify.com/actors/GLcl7jwhshuWdvkiD/)  
+**Store:** [`social_developer/instagram-post-link-scraper`](https://apify.com/social_developer/instagram-post-link-scraper)
+
+| | Repo (SEO showcase) | Search intent |
+|---|---------------------|---------------|
+| 📸 | [**Instagram Scraper**](https://github.com/shanskarBansal/instagram-scraper-showcase) | instagram scraper |
+| 📷 | [**Instagram Post Scraper**](https://github.com/shanskarBansal/instagram-post-scraper-showcase) | instagram post scraper |
+| 🎬 | [**Instagram Reel Scraper**](https://github.com/shanskarBansal/instagram-reel-scraper-showcase) | instagram reel scraper |
+| 👀 | [**Reel Views Scraper**](https://github.com/shanskarBansal/instagram-reel-views-scraper) | instagram reel views |
+| 📊 | [**Instagram Data Extractor**](https://github.com/shanskarBansal/instagram-data-extractor-showcase) | instagram data extractor |
+| ❤️ | [**Engagement Metrics**](https://github.com/shanskarBansal/instagram-engagement-metrics-scraper) | instagram engagement / metrics |
+| ⚡ | [**Cheap & Fast Scraper**](https://github.com/shanskarBansal/cheap-fast-instagram-scraper) | cheap / fast instagram scraper |
+| 🔌 | [**Instagram API Scraper**](https://github.com/shanskarBansal/instagram-api-scraper-showcase) | instagram api scraper |
+| 🤖 | [**MCP Instagram Scraper**](https://github.com/shanskarBansal/mcp-instagram-scraper) | MCP / Cursor / Claude |
+| 🔗 | [**Scrape Instagram From URL**](https://github.com/shanskarBansal/scrape-instagram-from-url) | scrape instagram from url |
+| 🟢 | [**Apify Instagram Scraper**](https://github.com/shanskarBansal/apify-instagram-scraper-showcase) | apify instagram scraper |
+| 📈 | [**Post & Reel Metrics Tool**](https://github.com/shanskarBansal/instagram-post-reel-metrics-tool) | instagram metrics tool |
+
+</details>
+
 <details open>
 <summary><b>📂 Projects</b></summary>
 <br/>
@@ -53,6 +80,7 @@ Most of my source code lives in private repos (client work), but I keep public s
 | 🏦 | [**AdVault**](https://github.com/shanskarBansal/AdVault-Showcase) | Facebook Ad Library intelligence — extract, analyze & report ad spend and impressions at scale |
 | 🔗 | [**LinkLens**](https://github.com/shanskarBansal/LinkLens-Showcase) | Multi-platform social media metrics extraction — paste URLs, get every metric |
 | 📊 | [**SocialPulse Analytics**](https://github.com/shanskarBansal/social-pulse-analytics-showcase) | Automated analytics pipeline for social platforms using Streamlit + Google APIs |
+| 📸 | [**Instagram Scraper**](https://github.com/shanskarBansal/instagram-scraper-showcase) | Paste IG post/reel URL → views, likes, comments JSON — [run on Apify](https://console.apify.com/actors/GLcl7jwhshuWdvkiD/) |
 | 🐦 | [**Twitter/X Scraper**](https://github.com/shanskarBansal/twitter-scraper-showcase) | Production-grade tweet & profile extractor built on Apify + Playwright |
 | 💰 | [**SalaryLens**](https://github.com/shanskarBansal/SalaryLens-Showcase) | ML-powered salary prediction platform (Worthify.me) |
 | 🧩 | [**CrossVerse**](https://github.com/shanskarBansal/CrossVerse-Showcase) | Superhero crossword puzzle game — full stack with auth, sessions & game logic |
