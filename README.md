@@ -67,6 +67,32 @@ Looking for an **Instagram scraper**? Paste a post/reel URL and get views, likes
 </details>
 
 <details open>
+<summary><b>🔍 Instagram Influencer Scraper (Apify) — India creator database</b></summary>
+<br/>
+
+Looking for an **influencer scraper**, **influencer database**, or **Instagram influencer finder**? Search **2.4M+ Indian Instagram creators** by category, city, followers, and views — export CSV.
+
+**▶ Live actor:** [console.apify.com/actors/s4XRSzZuVqawl63Ih](https://console.apify.com/actors/s4XRSzZuVqawl63Ih)  
+**Store:** [`social_developer/india-instagram-influencer-scraper-modashs`](https://apify.com/social_developer/india-instagram-influencer-scraper-modashs)
+
+| | Repo (SEO showcase) | Search intent |
+|---|---------------------|---------------|
+| 🔍 | [**Instagram Influencer Scraper**](https://github.com/shanskarBansal/instagram-influencer-scraper) | instagram influencer scraper |
+| 🇮🇳 | [**Influencer Scraper India**](https://github.com/shanskarBansal/influencer-scraper-india) | influencer scraper |
+| 📚 | [**Instagram Influencer Database**](https://github.com/shanskarBansal/instagram-influencer-database) | influencer database |
+| 🇮🇳 | [**India Influencer Database**](https://github.com/shanskarBansal/india-influencer-database) | india influencer database |
+| 🎯 | [**Instagram Influencer Finder**](https://github.com/shanskarBansal/instagram-influencer-finder) | instagram influencer finder |
+| 🔎 | [**Influencer Search Tool**](https://github.com/shanskarBansal/influencer-search-tool) | influencer search tool |
+| 📸 | [**Indian Instagram Influencers**](https://github.com/shanskarBansal/indian-instagram-influencers) | indian instagram influencers |
+| 📊 | [**Influencer Data Scraper**](https://github.com/shanskarBansal/influencer-data-scraper) | influencer data scraper |
+| 📋 | [**Influencer List India**](https://github.com/shanskarBansal/influencer-list-india) | influencer list india |
+| 🗂️ | [**Instagram Creator Database**](https://github.com/shanskarBansal/instagram-creator-database) | instagram creator database |
+| 🔁 | [**Qoruz Alternative**](https://github.com/shanskarBansal/qoruz-alternative-india) | qoruz alternative |
+| 🔁 | [**Modash Alternative**](https://github.com/shanskarBansal/modash-alternative-india) | modash alternative |
+
+</details>
+
+<details open>
 <summary><b>📂 Projects</b></summary>
 <br/>
 
@@ -81,6 +107,7 @@ Most of my source code lives in private repos (client work), but I keep public s
 | 🔗 | [**LinkLens**](https://github.com/shanskarBansal/LinkLens-Showcase) | Multi-platform social media metrics extraction — paste URLs, get every metric |
 | 📊 | [**SocialPulse Analytics**](https://github.com/shanskarBansal/social-pulse-analytics-showcase) | Automated analytics pipeline for social platforms using Streamlit + Google APIs |
 | 📸 | [**Instagram Scraper**](https://github.com/shanskarBansal/instagram-scraper-showcase) | Paste IG post/reel URL → views, likes, comments JSON — [run on Apify](https://console.apify.com/actors/GLcl7jwhshuWdvkiD/) |
+| 🔍 | [**Instagram Influencer Scraper**](https://github.com/shanskarBansal/instagram-influencer-scraper) | Search 2.4M+ Indian IG creators — [run on Apify](https://console.apify.com/actors/s4XRSzZuVqawl63Ih) |
 | 🐦 | [**Twitter/X Scraper**](https://github.com/shanskarBansal/twitter-scraper-showcase) | Production-grade tweet & profile extractor built on Apify + Playwright |
 | 💰 | [**SalaryLens**](https://github.com/shanskarBansal/SalaryLens-Showcase) | ML-powered salary prediction platform (Worthify.me) |
 | 🧩 | [**CrossVerse**](https://github.com/shanskarBansal/CrossVerse-Showcase) | Superhero crossword puzzle game — full stack with auth, sessions & game logic |
